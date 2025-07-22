@@ -17,4 +17,4 @@ function isLeapYear(year) {
   console.log(`${year1} is a leap year: ${isLeapYear(year1)}`); // Output: 2024 is a leap year: true
   console.log(`${year2} is a leap year: ${isLeapYear(year2)}`); // Output: 1900 is a leap year: false
   console.log(`${year3} is a leap year: ${isLeapYear(year3)}`); // Output: 2000 is a leap year: true
-  console.log(`${year4} is a leap year: ${isLeapYear(year4)}`); // Output: 2023 is a leap year: falsegit
+  console.log(`${year4} is a leap year: ${isLeapYear(year4)}`); // Output: 2023 is a leap year: false
